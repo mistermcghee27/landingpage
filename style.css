@@ -12,6 +12,16 @@ header {
 
 }
 
+/*hero section*/
+hero {
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+.herotext {
+    width: 400px;
+}
+
 .logo {
     font-size: 24px;
     color: #f9faf8;
